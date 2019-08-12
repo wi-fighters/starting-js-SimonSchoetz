@@ -20,3 +20,7 @@ let lastName = "Johnson";  // String
 let car = ""; // String
 let isOpen = true; // Boolean*/
 
+//Step 5
+let ageMark = 30;
+let ageJohn = "35";
+console.log(ageMark, ageJohn);
