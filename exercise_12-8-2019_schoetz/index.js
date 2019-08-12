@@ -6,4 +6,5 @@ let city = "Berlin";
 let age = 29;
 let genre = "Dubstep";
 
-console.log(firstName, lastName ,city, age, genre);
+//console.log(firstName, lastName ,city, age, genre);
+console.log(firstName, lastName+" is a "+age+" years old "+genre+" producer from "+city);
