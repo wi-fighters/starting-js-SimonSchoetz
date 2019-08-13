@@ -29,22 +29,22 @@ console.log(ageMark, ageJohn);
 console.log((ageJohn>ageMark) ? "John is older than Mark: true" : "John is older than Mark: false"); */
 
 //Step 7
-/*var a=1;
-var b=2;
-var c=3;
+/*let a=1;
+let b=2;
+let c=3;
 console.log(a===b, a<c, b>=b);*/
 
 //Step 8
-/*var programmingLanguage="JavaScript";
-var isFun=true;
+/*let programmingLanguage="JavaScript";
+let isFun=true;
 console.log(programmingLanguage+" is fun: "+isFun);*/
 
 //Step 9
-/*var test;
+/*let test;
 console.log(typeof test);
 ->it is undefined
 ->because it is an empty variable with the name 'test'*/
 
 //Step 10
-var calculation=10+15/3*2;
+let calculation=10+15/3*2;
 console.log(calculation);
