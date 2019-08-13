@@ -40,8 +40,11 @@ var isFun=true;
 console.log(programmingLanguage+" is fun: "+isFun);*/
 
 //Step 9
-var test;
+/*var test;
 console.log(typeof test);
-
 ->it is undefined
-->because it is an empty variable with the name 'test'
+->because it is an empty variable with the name 'test'*/
+
+//Step 10
+var calculation=10+15/3*2;
+console.log(calculation);
