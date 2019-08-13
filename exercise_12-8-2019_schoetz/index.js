@@ -35,6 +35,13 @@ var c=3;
 console.log(a===b, a<c, b>=b);*/
 
 //Step 8
-var programmingLanguage="JavaScript";
+/*var programmingLanguage="JavaScript";
 var isFun=true;
-console.log(programmingLanguage+" is fun: "+isFun);
+console.log(programmingLanguage+" is fun: "+isFun);*/
+
+//Step 9
+var test;
+console.log(typeof test);
+
+->it is undefined
+->because it is an empty variable with the name 'test'
