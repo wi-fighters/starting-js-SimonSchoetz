@@ -25,6 +25,7 @@ console.log(`Score in the sixth test: ${missingTest}`);
 */
 
 // 4 The Minimum Score
+/*
 let currentAverage=78;
 let currentAmtountOfTests=8;
 let totalOfTests=9;
@@ -32,5 +33,12 @@ let requiredAverage=80;
 let allAverageScores=requiredAverage*totalOfTests;
 let currentAverageScores=currentAverage*currentAmtountOfTests;
 let finalTest=allAverageScores-currentAverageScores;
-console.log(`James needs a minimum of ${finalTest}%`);
+console.log(`James needs a minimum of ${finalTest}% to get a 80% average`);
+*/
 
+// 5 Consumer Formula
+
+let billOne=22.35 * 1.1; //24.59€
+let billTwo=26.67*1.15; //30.67€
+let billThree=35.92*1.2; // 43.10€
+console.log(billOne, billTwo, billThree);
