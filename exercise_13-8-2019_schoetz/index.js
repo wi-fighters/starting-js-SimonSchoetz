@@ -15,9 +15,22 @@ console.log( (hours+8+6+5+9+8+2+1+8.5+7)/9 );
 */
 
 // 3 Score
+/*
 let fiveTestScores = (75+70+85+90+100);
 let average = 85;
 let amountsTest = 6;
 let allTestScores=average * amountsTest;
 let missingTest = allTestScores - fiveTestScores;
 console.log(`Score in the sixth test: ${missingTest}`);
+*/
+
+// 4 The Minimum Score
+let currentAverage=78;
+let currentAmtountOfTests=8;
+let totalOfTests=9;
+let requiredAverage=80;
+let allAverageScores=requiredAverage*totalOfTests;
+let currentAverageScores=currentAverage*currentAmtountOfTests;
+let finalTest=allAverageScores-currentAverageScores;
+console.log(`James needs a minimum of ${finalTest}%`);
+
