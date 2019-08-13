@@ -46,5 +46,10 @@ console.log(billOne, billTwo, billThree);
 
 // 6 Geometry Formulas
 
-let perimeter=4.75**2; //22.56cm²
-console.log(perimeter);
+let perimeterSquare=4.75*4; //19cm
+let perimeterTriangle=5+6+7; //18cm
+let areaSquare=5**2; //25cm²
+let areaTriangle="FOCKIT";
+let volumeCube=9*9*9;
+console.log(volumeCube);
+
