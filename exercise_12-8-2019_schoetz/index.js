@@ -23,4 +23,7 @@ let isOpen = true; // Boolean*/
 //Step 5
 let ageMark = 30;
 let ageJohn = "35";
-console.log(ageMark, ageJohn);
+//console.log(ageMark, ageJohn);
+
+//Step 6
+console.log((ageJohn>ageMark) ? "John is older than Mark: true" : "John is older than Mark: false");
