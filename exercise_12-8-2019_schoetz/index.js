@@ -29,7 +29,12 @@ console.log(ageMark, ageJohn);
 console.log((ageJohn>ageMark) ? "John is older than Mark: true" : "John is older than Mark: false"); */
 
 //Step 7
-var a=1;
+/*var a=1;
 var b=2;
 var c=3;
-console.log(a===b, a<c, b>=b);
+console.log(a===b, a<c, b>=b);*/
+
+//Step 8
+var programmingLanguage="JavaScript";
+var isFun=true;
+console.log(programmingLanguage+" is fun: "+isFun);
