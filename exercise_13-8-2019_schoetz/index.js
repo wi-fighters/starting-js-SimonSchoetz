@@ -45,11 +45,17 @@ console.log(billOne, billTwo, billThree);
 */
 
 // 6 Geometry Formulas
-
+/*
 let perimeterSquare=4.75*4; //19cm
 let perimeterTriangle=5+6+7; //18cm
 let areaSquare=5**2; //25cm²
 let areaTriangle="FOCKIT";
-let volumeCube=9*9*9;
+let volumeCube=9*9*9; //729cm³
 console.log(volumeCube);
+*/
 
+// 7 Basic Word Problems
+
+let amountPeople=6450/15; //430 people
+let incomePerYr=500*52;
+console.log(incomePerYr);
