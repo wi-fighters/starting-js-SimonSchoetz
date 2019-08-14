@@ -57,5 +57,5 @@ console.log(volumeCube);
 // 7 Basic Word Problems
 
 let amountPeople=6450/15; //430 people
-let incomePerYr=500*52;
-console.log(incomePerYr);
+let incomePerAnno=500*52; //26000€ per Anno
+console.log(incomePerAnno);
