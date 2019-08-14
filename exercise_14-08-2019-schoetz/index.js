@@ -26,8 +26,15 @@ console.log(personAge)
 */
 
 // 4 Student Discount
-
+/*
 const isStudent = "yes";
 const answer = "no";
 const statusCheck= (answer === isStudent) ? "Cool, you get in for 5 bucks." : "Than it's 12 bucks for you, buddy.";
 console.log(statusCheck)
+*/
+
+// 5 What time is it?
+const timeWeWant = "morning";
+const currentTime = "morning";
+const timeOfDay = (currentTime === timeWeWant) ? "Good morning! <3" : "Good Evening! :*";
+console.log(timeOfDay)
