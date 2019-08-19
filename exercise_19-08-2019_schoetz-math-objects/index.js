@@ -18,7 +18,7 @@ console.log(Math.max(numOne, numTwo, numThree,));
 */
 
 // 3 Rounding
-
+/*
 console.log(Math.ceil (321.32321));
 console.log(Math.ceil (326.76));
 console.log(Math.ceil (76788.7));
@@ -29,3 +29,7 @@ console.log(Math.floor (326.76));
 console.log(Math.floor (76788.7));
 console.log(Math.floor (-9.78));
 console.log(Math.floor (28.329));
+*/
+
+// Dice Roll
+console.log(Math.floor(Math.random()*6+1))
