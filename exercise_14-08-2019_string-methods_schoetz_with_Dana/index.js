@@ -1,4 +1,4 @@
-// Collab exercise with Dana, code written on his laptop
+// Collab exercise with Dana, code written on her laptop
 // 1
 const stringOne = 'this sucks';
 console.log(stringOne.length); // 10
