@@ -3,8 +3,8 @@
 
 // 1
 
-//let name = "Simon Schötz";
-//name = "You wot m8!";
+let name = "Simon Schötz";
+name = "You wot m8!";
 //console.log(name);
 
 // 2
@@ -26,11 +26,15 @@ let daysBeforeExam = 13;
 // 7 & 8
 //console.log(`${x} drinks ${y} cups of coffee per day with ${daysBeforeExam} days before exam.`);
 
-//9
+// 9
 
 y += 1;
 daysBeforeExam -= 1;
 //console.log(`${x} drinks ${y} cups of coffee, with ${daysBeforeExam} before the exam.`);
 
-//10 y has 35 and daysBeforeExam has 12
-console.log(y, daysBeforeExam);
+// 10: y has 35 and daysBeforeExam has 12
+//console.log(y, daysBeforeExam);
+
+// 12-14: it will print You wot m8!Schm
+const schmozzler = "Schm";
+console.log(name.concat(schmozzler));
