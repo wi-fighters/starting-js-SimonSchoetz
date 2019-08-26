@@ -25,5 +25,5 @@ let daysBeforeExam = 13;
 
 // 7 & 8
 console.log(
-  `${x} drinks ${y} cups of coffee per day with in ${daysBeforeExam} days.`
+  `${x} drinks ${y} cups of coffee per day with ${daysBeforeExam} days before exam.`
 );
